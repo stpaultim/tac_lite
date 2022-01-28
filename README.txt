@@ -11,7 +11,9 @@ version and this module should only be used after these issues
 are resolved and ported to the Backdrop version. 
 
 This module has been run through the Coder Upgrader and nothing 
-more. https://backdropcms.org/project/coder_upgrade
+more. This module is available here simply to facilitate future
+work on creating a stable port. 
+https://backdropcms.org/project/coder_upgrade
 
 Resources:
 https://api.backdropcms.org/converting-modules-from-drupal
