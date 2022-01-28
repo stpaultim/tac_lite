@@ -1,10 +1,17 @@
 # TAC LITE
 
-NOTE: This module has been run through the Coder Upgrader and nothing 
-more. It is throwing errors and is NOT stabile. Please, feel free to
-test and create issues. Hopefully, we can find someone who can get this
-running.
-https://backdropcms.org/project/coder_upgrade
+NOTE: This module SHOULD NOT be used in it's current condition. 
+
+1) The Drupal 7 version is unsupported due to known security issues.
+   https://www.drupal.org/project/tac_lite
+2) This modules does not work and is NOT stable. 
+
+An effort is being made to find a new maintainer and fix the Drupal 7
+version and this module should only be used after these issues
+are resolved and ported to the Backdrop version. 
+
+This module has been run through the Coder Upgrader and nothing 
+more. https://backdropcms.org/project/coder_upgrade
 
 Resources:
 https://api.backdropcms.org/converting-modules-from-drupal
